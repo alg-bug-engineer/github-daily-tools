@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+env/
+
+# 敏感信息 / 状态文件
+.env
+storage.json
+publish_log.json
+logs/
+history/
+*.json.bak
+
+# 备份和临时文件
+backup/
+archive/
+*.bak
+*.tmp
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Playwright
+playwright/.cache/
+
+# 测试生成的文件（可选）
+# posts/*.md
+# todo/*.txt
