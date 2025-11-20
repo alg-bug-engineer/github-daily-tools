@@ -7,7 +7,7 @@ publish_log.json
 # 错误截图
 error_screenshot.png
 *.png
-
+posts
 # Python
 __pycache__/
 *.py[cod]
